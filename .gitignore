@@ -1,0 +1,7 @@
+logs
+plugins
+postgresql_data
+redis_data
+.env
+.idea
+
