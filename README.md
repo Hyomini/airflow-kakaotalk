@@ -1,4 +1,4 @@
-# airflow-kakaotalk
+# airflow-toy
 ## 초기 설정
 ### volume 디렉토리 생성, env파일 생성
 ```bash
